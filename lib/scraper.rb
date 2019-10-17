@@ -18,6 +18,10 @@ class Scraper
     #binding.pry
   end 
   
+  def get_courses
+    binding.pry
+  end 
+  
   
   
   def print_courses
